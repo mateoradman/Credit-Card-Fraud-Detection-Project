@@ -4,8 +4,6 @@ My first advanced machine learning project using credit card dataset from kaggle
 
 <img src='http://s8.picofile.com/file/8344100018/workflow3.png'>
 
-## 1. Download the dataset from: https://www.kaggle.com/mlg-ulb/creditcardfraud/download
-## 2. Place it in your 'Downloads' folder if not downloaded there by default
-## 3. Run the Python code provided in this repository under the filename Code.py
+## Dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud/download
 
-## Thank you for reading!
+## Thank you for checking the project out!
